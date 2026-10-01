@@ -1,0 +1,16 @@
+Python 3
+
+Pandas
+# data loading, filtering, cleaning, grouping, aggregation and transformation
+
+NumPy
+# numerical calculations and analysis
+
+Matplotlib
+# data visualization
+
+Seaborn
+# statistical visualization and heatmaps
+
+Google Colab / Jupyter Notebook
+# notebook execution
